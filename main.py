@@ -136,30 +136,4 @@ def strings_and_comments(essay):
 		"raw": essay
 	}
 
-
-
 pprint(strings_and_comments(essay))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
